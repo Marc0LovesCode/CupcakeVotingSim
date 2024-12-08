@@ -24,12 +24,7 @@ This project simulates a voting system where votes are encrypted, processed, and
 1. **Prerequisites**:
 	- Rust toolchain installed (`rustc`, `cargo`). You can install Rust from [rust-lang.org](https://www.rust-lang.org/tools/install).
 
-2. **Clone Cupcake Library**:    - Cupcake needs to be cloned and compiled separately since it's not available on crates.io:
-        - git clone https://github.com/facebookresearch/Cupcake.git
-        - cd Cupcake
-	- cargo build --release
-
-3. **Clone the Repository**:
+2. **Clone the Repository**:
 	- git clone https://github.com/Marc0LovesCode/CupcakeVotingSim
 	- cd CupcakeVotingSim
 	- cargo build --release
