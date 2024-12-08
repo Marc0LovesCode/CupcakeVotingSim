@@ -1,0 +1,8 @@
+[package]
+name = "voting_program"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+Cupcake = "0.2.1"
+rand = "0.8"
